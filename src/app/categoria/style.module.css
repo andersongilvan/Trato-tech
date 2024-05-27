@@ -1,0 +1,12 @@
+.container-itens {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    gap: 40px;
+    flex-wrap: wrap;
+    margin-top: 100px;
+    margin-bottom: 100px;  
+    padding: 50px 20px; 
+    align-items: center;
+    justify-content: center;
+}
